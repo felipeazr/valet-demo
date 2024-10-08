@@ -1,4 +1,4 @@
-package br.com.yaman.valet.model;
+package br.com.felipe.valet.model;
 import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.List;
